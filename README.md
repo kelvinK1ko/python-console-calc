@@ -1,4 +1,4 @@
 # python-console-calc
 A simple python console calculator
-#Setting up
+# Setting up
 **$**`python calc.py`
